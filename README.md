@@ -41,6 +41,8 @@ The table below shows:
 	</tr>
 </table>
 
+\pagebreak
+
 # Updating Enrollment Info for the Opted-Out Applicants #
 *Enrollment administrators can now update the enrollment information for the opted-out applicants via the Manage Enrollment page of the Administrator Portal.*
 
